@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+header {
+  background: #fff;
+  padding: 20px 0;
+}
+
+.img{
+	
+	float: left;
+	font: normal 28px Cookie, Arial, Helvetica, sans-serif;
+	line-height: 40px;
+	margin: 0;
+	box-shadow: 1px 5px 5px #555;
+	
+}
+nav{
+    
+    padding: 20px;
+	font:16px Arial, Helvetica, sans-serif;
+
+    
+    
+}
+
+
+nav ul{
+     
+    
+    text-align: center;
+				float: right;
+
+
+  
+    
+}
+
+
+
+nav ul li {
+    
+    display: inline;
+    padding: 5px;
+    font-size:25px;
+    margin-right: 5px;
+	
+    
+    
+    
+    
+    
+}
+
+
+
+nav ul li a{
+    
+    text-decoration: none;
+    color: black;
+    padding:10px;
+    font-size: 18px;
+    text-align: center;
+	
+}
+
+
+ nav ul li a:hover{
+    color:gray;
+     text-decoration: none;
+
+     
+}
+
+	/**wrapper Start **/
+
+#intro {
+  padding: 100px 0;
+}
+#intro .block h2 {
+  padding-top: 35px;
+  line-height: 27px;
+  margin: 0;
+}
+#intro .block p {
+  color: #7B7B7B;
+  padding-top: 20px;
+}
+#intro .block img {
+  padding-left: 40px;
+  width: 100%;
+}
+#intro .section-title {
+  margin-bottom: 0px;
+}
+#intro .section-title p {
+  padding-top: 20px;
+}
+
+
+
+
+
+.section-title {
+  margin-bottom: 70px;
+}
+.section-title h2 {
+  text-transform: uppercase;
+  font-size: 28px;
+  font-weight: 600;
+}
+.section-title p {
+  font-family: 'Volkhov', serif;
+  font-style: italic;
+  color: #666;
+}
+
